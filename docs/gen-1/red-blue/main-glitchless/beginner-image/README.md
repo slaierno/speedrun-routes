@@ -351,12 +351,13 @@ NOTE: From this point on you have 2 revives which means deaths aren't as scary, 
 			
 **Rival**
 - TB x2, BB, Thrash
+<br>
 			</td>
 		</tr>
 		<tr>
 			<td>
 
-[![](../resources/images/lavender-2.png)](https://gunnermaniac.com/pokeworld?map=144#3/9/SRRRDDDDRRUUUUUUURRRRRRRRRDRD)  
+[![](../resources/images/lavender-2.png)](https://gunnermaniac.com/pokeworld?map=144#3/9/SRRRDDDDRRUUUUUUURRRRRRRRRDRD)
 			</td>
 			<td>
 			</td>
@@ -404,6 +405,8 @@ Teach TM 07 (Horn Drill) over Rock Slide
 - MENU:
 	* Swap slot 4 with Super Repels
 	* Use Pokedoll
+
+<br>
 			</td>
 		</tr>
 	</tbody>
@@ -630,6 +633,7 @@ Bike to Koga gym.
 - Elixer on Weezing
   - if Koga used x attack use Bubblebeam till you die
   - if you didn’t die from koga you can still try to get red bar by following the HP strats for the [backups](https://pastebin.com/2DBBnkmf). Note that this can be risky
+<br>
 			</td>
 		</tr>
 	</tbody>
@@ -693,6 +697,7 @@ Get to B1:
 * Pickup the Rare Candy
 * Pickup the Secret Key
 * Dig out
+<br>
 			</td>
 		</tr>
 	</tbody>
@@ -718,6 +723,7 @@ Be careful avoiding the leftmost beauty.
 **Erika:**
 - EQ, Bliz, EQ
 - After Erika Fly back to Cinnabar
+<br>
 			</td>
 		</tr>
 	</tbody>
@@ -764,6 +770,7 @@ Dig out and Bike to Sabrina's Gym
 **Giovanni:**
 - EQ x4, Bliz + (Bliz)
 	* Note: Don't go bellow 2 Blizzards in this fight, if you need to use EQs to finish Rhydon
+<br>
 			</td>
 		</tr>
 	</tbody>
@@ -826,6 +833,7 @@ Use Strength after the stairs then move the boulder.
   * Use Super Repel
   * Use Strength
 * Move the boulder to the left
+<br>
 			</td>
 		</tr>
 		<tr>
@@ -837,6 +845,7 @@ Use Strength after the stairs then move the boulder.
 
 - Exit the Victory Rode
 - Optional Safety: Pickup the Full Restore [here](http://gunnermaniac.com/pokeworld?map=194#26/7)
+<br>
 			</td>
 		</tr>
 	</tbody>
